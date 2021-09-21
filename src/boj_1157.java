@@ -25,6 +25,7 @@ public class boj_1157 {
             }
         }
 
+        br.close();
         System.out.println(result);
     }
 }

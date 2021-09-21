@@ -33,6 +33,8 @@ public class boj_1316 {
             }
             if(flag) count++;
         }
+
+        br.close();
         System.out.println(count);
     }
 }
